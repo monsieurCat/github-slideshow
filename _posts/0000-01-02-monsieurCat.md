@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Don't let your dreams be dreams!
 Use the left arrow to go back!
